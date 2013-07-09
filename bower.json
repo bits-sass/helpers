@@ -1,0 +1,9 @@
+{
+  "name": "bits-css-mixins",
+  "version": "0.1.0",
+  "author": "Lukáš Mladý",
+  "dependencies": {
+    "bits-css-mixins-misc": "~0.1.0" ,
+    "bits-css-mixins-text": "~0.1.0"
+  }
+}
