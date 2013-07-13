@@ -3,6 +3,7 @@
 Mixins for day-to-day use.
 
 Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
+Check out other [Bits.css packages](https://github.com/bits-css).
 
 ## Installation
 

@@ -1,6 +1,7 @@
 === HEAD
 
 * README: Move _Requirements_ section
+* README: Add other packages link
 
 === 0.2.0 (July 13, 2013)
 
