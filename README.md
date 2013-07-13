@@ -10,7 +10,7 @@ Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
 
 ## Installation
 
-__Bower:__ bower install --save bits-css-mixins
+__Bower:__ `bower install --save bits-css-mixins`
 
 This command installs all subpackages. See the list below.
 
