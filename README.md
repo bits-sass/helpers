@@ -1,21 +1,21 @@
-# Bits.css mixins
+# Bits.scss mixins
 
 Mixins for day-to-day use.
 
-Read more about [Bits.css toolkit](https://github.com/bits-css/bits.css).
+Read more about [Bits.scss toolkit](https://github.com/bits-scss/bits.scss).
 
-Check out other [Bits.css packages](https://github.com/bits-css).
+Check out other [Bits.scss packages](https://github.com/bits-scss).
 
 ## Installation
 
-__Bower:__ `bower install --save bits-css-mixins`
+__Bower:__ `bower install --save bits-scss-mixins`
 
 This command installs all subpackages. See the list below.
 
 ## Packages
 
-* [bits-css-mixins-misc](https://github.com/bits-css/mixins-misc)
-* [bits-css-mixins-text](https://github.com/bits-css/mixins-text)
+* [bits-scss-mixins-misc](https://github.com/bits-scss/mixins-misc)
+* [bits-scss-mixins-text](https://github.com/bits-scss/mixins-text)
 
 ## Requirements
 
