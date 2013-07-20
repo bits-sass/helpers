@@ -1,12 +1,17 @@
 === HEAD
 
+=== 0.4.0 (July 18, 2013)
+
+* Rename organization's name to 'Bits.sass'
+* Add `bits-sass-mixins-responsive` package
+
 === 0.3.0 (July 14, 2013)
 
 * Rename organization's name to 'Bits.scss'
 * README: Move _Requirements_ section
 * README: Add other packages link
-* Bump `bits-scss-mixins-misc` version to 0.3.0
-* Bump `bits-scss-mixins-text` version to 0.3.0
+* Bump `bits-sass-mixins-misc` version to 0.3.0
+* Bump `bits-sass-mixins-text` version to 0.3.0
 
 === 0.2.0 (July 13, 2013)
 

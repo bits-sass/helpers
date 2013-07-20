@@ -1,9 +1,10 @@
 {
-  "name": "bits-scss-mixins",
-  "version": "0.3.0",
+  "name": "bits-sass-mixins",
+  "version": "0.4.0",
   "author": "Lukáš Mladý",
   "dependencies": {
-    "bits-scss-mixins-misc": "~0.3.0",
-    "bits-scss-mixins-text": "~0.3.0"
+    "bits-sass-mixins-misc": "~0.3.1",
+    "bits-sass-mixins-responsive": "~0.1.0",
+    "bits-sass-mixins-text": "~0.3.1"
   }
 }
