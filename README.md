@@ -1,6 +1,6 @@
-# Bits.sass mixins
+# Bits.sass helpers
 
-Mixins for day-to-day use.
+Functions and mixins for day-to-day use.
 
 Read more about [Bits.sass toolkit](https://github.com/bits-sass/bits.sass).
 
@@ -8,15 +8,15 @@ Check out other [Bits.sass packages](https://github.com/bits-sass).
 
 ## Installation
 
-__Bower:__ `bower install --save bits-sass-mixins`
+__Bower:__ `bower install --save bits-sass-helpers`
 
 This command installs all subpackages. See the list below.
 
 ## Packages
 
-* [bits-sass-mixins-misc](https://github.com/bits-sass/mixins-misc)
-* [bits-sass-mixins-responsive](https://github.com/bits-sass/mixins-responsive)
-* [bits-sass-mixins-text](https://github.com/bits-sass/mixins-text)
+* [bits-sass-helpers-misc](https://github.com/bits-sass/helpers-misc)
+* [bits-sass-helpers-responsive](https://github.com/bits-sass/helpers-responsive)
+* [bits-sass-helpers-text](https://github.com/bits-sass/helpers-text)
 
 ## Requirements
 

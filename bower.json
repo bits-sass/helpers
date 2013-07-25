@@ -1,10 +1,10 @@
 {
-  "name": "bits-sass-mixins",
-  "version": "0.4.0",
+  "name": "bits-sass-helpers",
+  "version": "0.5.0",
   "author": "Lukáš Mladý",
   "dependencies": {
-    "bits-sass-mixins-misc": "~0.3.1",
-    "bits-sass-mixins-responsive": "~0.1.0",
-    "bits-sass-mixins-text": "~0.3.1"
+    "bits-sass-helpers-misc": "~0.4.0",
+    "bits-sass-helpers-responsive": "~0.2.0",
+    "bits-sass-helpers-text": "~0.4.0"
   }
 }
