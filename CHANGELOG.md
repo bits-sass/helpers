@@ -1,5 +1,11 @@
 === HEAD
 
+=== 0.6.0 (September 2, 2013)
+
+* Bump `bits-sass-mixins-misc` dependency to ~0.5.0
+* Bump `bits-sass-mixins-responsive` dependency to ~0.3.0
+* Bump `bits-sass-mixins-text` dependency to ~0.4.1
+
 === 0.5.0 (July 25, 2013)
 
 * Rename package name to a more precise 'helpers'
